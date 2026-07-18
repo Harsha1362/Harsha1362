@@ -1,4 +1,4 @@
-<h1 align = "center">Hi! I'm Harshavardhan.</h1><br>
+<h1 align = "center">👋 Hi! I'm Harshavardhan.</h1><br>
 
 
 <p>
@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 🎓 Master's in Data Science graduate from the University of Maryland, College Park.
 
