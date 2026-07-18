@@ -1,6 +1,6 @@
 <p>
 
-  <p align="center">
+  <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-SQL-333?style=flat-square&logo=sql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postgres-333?style=flat-square&logo=postgres&logoColor=white"/>
