@@ -25,11 +25,19 @@
 
 ## 👋 About Me
 
-🧑‍💻 I'm **Harshavardhan sai Mutyala**, Software Developer.<br/>
-💼 Based in ****, working at ****.<br/>
-🌱 Currently learning: **RAG Systems • Google Cloud Platform • AI Agents**<br/>
-⚡ Fun fact: I enjoy turning ideas into hands-on projects and learning new technologies through building
+Hi! I'm Harshavardhan.
 
+🎓 Master's in Data Science graduate from the University of Maryland, College Park.
+
+💻 I enjoy building data-driven applications, machine learning models, and end-to-end data pipelines.
+
+🌱 I'm currently learning Google Cloud Platform, RAG Systems, and AI Agent Development.
+
+📊 My interests include Data Analytics, Data Engineering, Machine Learning, Computer Vision, and Generative AI.
+
+🚀 I'm actively building projects and looking for opportunities where I can apply and grow my skills.
+
+⚡ Fun fact: I enjoy turning ideas into hands-on projects and learning new technologies through building.
 ---
 
 ## 📫 Contact
