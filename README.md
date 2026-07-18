@@ -38,6 +38,7 @@ Hi! I'm Harshavardhan.
 🚀 I'm actively building projects and looking for opportunities where I can apply and grow my skills.
 
 ⚡ Fun fact: I enjoy turning ideas into hands-on projects and learning new technologies through building.
+
 ---
 
 ## 📫 Contact
