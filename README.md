@@ -96,10 +96,23 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
+
+### Repository Metrics and Language Usage
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harsha1362&theme=github-dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha1362&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's GitHub repository statistics, including stars, commits, pull requests, issues, and contributed repositories" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha1362&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages across Harshavardhan's public GitHub repositories" />
+</p>
+
+### Contribution Activity and Streak
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha1362&amp;theme=tokyo-night&amp;hide_border=true" alt="Graph of Harshavardhan's recent public GitHub contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's current and longest public GitHub contribution streaks" />
 </p>
 
 ---
