@@ -105,8 +105,8 @@ proficiency.
 ### Repository Metrics and Language Usage
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha1362&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's GitHub repository statistics, including stars, commits, pull requests, issues, and contributed repositories" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha1362&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages across Harshavardhan's public GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha1362&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's GitHub repository statistics, including stars, commits, pull requests, issues, and contributed repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha1362&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages across Harshavardhan's public GitHub repositories" />
 </p>
 
 ### Contribution Activity and Streak
