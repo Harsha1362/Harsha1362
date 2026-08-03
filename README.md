@@ -120,13 +120,6 @@ These live cards summarize GitHub-visible public repository and contribution
 activity. Language usage reflects repository code and is not a measure of
 proficiency.
 
-### Repository Metrics and Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha1362&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's GitHub repository statistics, including stars, commits, pull requests, issues, and contributed repositories" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha1362&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages across Harshavardhan's public GitHub repositories" />
-</p>
-
 ### Contribution Activity and Streak
 
 <p align="center">
