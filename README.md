@@ -98,6 +98,10 @@
 
 ## 📊 GitHub Analytics
 
+These live cards summarize GitHub-visible public repository and contribution
+activity. Language usage reflects repository code and is not a measure of
+proficiency.
+
 ### Repository Metrics and Language Usage
 
 <p align="center">
