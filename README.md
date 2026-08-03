@@ -91,28 +91,7 @@ or connect with me on
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏋️ FormScore – AI Exercise Form Coach
-- Built an end-to-end Computer Vision application using OpenCV, MediaPipe BlazePose, and BiLSTM.
-- Achieved **R² = 0.9773** for exercise form evaluation.
-- Integrated SHAP explainability and deployed with Streamlit & Docker.
-
----
-
-### 🩺 COVID-19 Chest X-ray Classifier
-- Developed TensorFlow/Keras models for medical image classification.
-- Achieved **98.35% accuracy** and **0.996 ROC-AUC**.
-- Built reproducible training and evaluation pipelines.
-
----
-
-### 🌦️ Open-Meteo Weather ETL Pipeline
-- Built an API-to-PostgreSQL ETL pipeline using Python.
-- Implemented incremental loading and dashboard visualization.
-- Containerized using Docker and Streamlit.
-
----
 
 ## 📊 GitHub Analytics
 
