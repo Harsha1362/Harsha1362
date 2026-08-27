@@ -1,68 +1,76 @@
-# Hi 👋, I'm Harshavardhan Sai Mutyala
+# Harshavardhan Sai Mutyala
 
-Master's in Data Science graduate focused on data analytics, machine learning,
-data engineering, and generative AI.
+Data Science graduate building practical analytics, machine learning, and data
+engineering systems.
 
-[Featured projects](#featured-projects) · [GitHub][github] ·
-[LinkedIn][linkedin] · [Email][email]
+[Featured projects](#featured-projects) ·
+[GitHub](https://github.com/Harsha1362) ·
+[LinkedIn](https://www.linkedin.com/in/mutyala-harshavardhan-sai) ·
+[Email](mailto:harshavardhansai.mutyala@gmail.com)
 
 ## About me
 
-I enjoy turning real-world questions into data products: analytical workflows,
-machine-learning models, API-backed pipelines, and approachable applications.
-I earned my master's degree at the University of Maryland, College Park, and I
-am continuing to learn Google Cloud Platform, retrieval-augmented generation,
-AI agent development, and MLOps.
+- Master's in Data Science graduate from the University of Maryland, College
+  Park.
+- Experienced with machine learning, ETL pipelines, computer vision, APIs, and
+  data engineering.
+- Currently exploring Google Cloud Platform, retrieval-augmented generation,
+  AI agents, and MLOps.
+- Open to entry-level Data Analyst, Data Scientist, Data Engineer, Machine
+  Learning Engineer, and Generative AI Engineer opportunities.
 
-I am seeking entry-level opportunities in data analytics, data science, data
-engineering, machine learning, and generative AI engineering.
+## Core skills
 
-## Technical toolkit
-
-| Capability | Tools |
+| Area | Technologies |
 | --- | --- |
-| Programming and querying | Python, SQL, R, C++, C |
-| Analysis and ML | pandas, NumPy, scikit-learn, PyTorch, TensorFlow |
-| Computer vision | OpenCV, MediaPipe |
-| Databases | PostgreSQL, MongoDB, MySQL |
-| Data engineering | Apache Airflow, PySpark, Docker |
-| Cloud | Google Cloud, AWS |
-| Applications and visualization | Streamlit, Tableau |
-| Development workflow | Git, GitHub |
+| Languages | Python, SQL, R, C++, C |
+| Data science and ML | pandas, NumPy, scikit-learn, PyTorch, TensorFlow, OpenCV |
+| Data and orchestration | PostgreSQL, MongoDB, MySQL, Apache Airflow, PySpark |
+| Cloud and delivery | Google Cloud, AWS, Docker, Git, GitHub |
+| Analytics and apps | Tableau, Streamlit |
 
 ## Featured projects
 
-Exact repository URLs are awaiting owner confirmation. The repository links
-below are intentionally scoped searches of my GitHub profile so each project
-remains discoverable without guessing a destination.
+### FormScore — AI Exercise Form Coach
 
-### 🏋️ FormScore — AI exercise form coach
+An end-to-end computer vision application that evaluates exercise form and
+explains its scoring.
 
-**Problem:** Make exercise-form feedback easier to understand from video-based
-movement data.
+- **Outcome:** Achieved an R² of 0.9773 for exercise-form evaluation and added
+  SHAP explanations to make predictions easier to interpret.
+- **Technologies:** Python, OpenCV, MediaPipe BlazePose, BiLSTM, SHAP,
+  Streamlit, Docker.
+- **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=FormScore)
+  · Demo URL not provided.
 
-**Outcome:** Built an end-to-end computer-vision workflow for pose-based form
-evaluation, added SHAP explanations, and packaged the interface with Streamlit
-and Docker. The earlier performance claim is omitted until its evaluation data
-and reproduction steps can be linked.
+### COVID-19 Chest X-ray Classifier
 
-**Technologies:** Python, OpenCV, MediaPipe BlazePose, BiLSTM, SHAP, Streamlit,
-Docker.
+A reproducible medical-image classification workflow for training and
+evaluating deep-learning models on chest X-rays.
 
-**Repository:** [Search my repositories for FormScore][formscore] ·
-**Live demo:** Not currently available.
+- **Outcome:** Reached 98.35% accuracy and a 0.996 ROC-AUC with repeatable
+  training and evaluation pipelines.
+- **Technologies:** Python, TensorFlow, Keras, computer vision.
+- **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=COVID-19)
+  · Demo URL not provided.
 
-### 🩺 COVID-19 chest X-ray classifier
+### Open-Meteo Weather ETL Pipeline
 
-**Problem:** Explore image-classification workflows for distinguishing classes
-in chest X-ray data.
+An API-to-database pipeline that collects weather data for analysis and
+dashboarding.
 
-**Outcome:** Developed TensorFlow/Keras training and evaluation pipelines. The
-earlier accuracy and ROC-AUC claims are omitted until the dataset split,
-evaluation output, and reproduction instructions can be linked. This is a
-portfolio project, not a clinical diagnostic tool.
+- **Outcome:** Automated incremental ingestion from Open-Meteo into PostgreSQL
+  and exposed the results through an interactive dashboard.
+- **Technologies:** Python, Open-Meteo API, PostgreSQL, Streamlit, Docker.
+- **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=Open-Meteo)
+  · Demo URL not provided.
 
-**Technologies:** Python, TensorFlow, Keras.
+## Let's connect
+
+I am interested in entry-level data and machine learning opportunities. If my
+work aligns with your team, please [email me](mailto:harshavardhansai.mutyala@gmail.com)
+or connect with me on
+[LinkedIn](https://www.linkedin.com/in/mutyala-harshavardhan-sai).
 
 **Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
 **Live demo:** Not currently available.
@@ -80,17 +88,31 @@ then containerized a Streamlit dashboard for exploring the resulting data.
 **Repository:** [Search my repositories for the Open-Meteo pipeline][weather] ·
 **Live demo:** Not currently available.
 
-## Let's connect
 
-I am available for entry-level data and AI roles and would be glad to discuss
-these projects, their implementation details, or opportunities to contribute.
 
-[Explore my GitHub][github] · [Connect on LinkedIn][linkedin] ·
-[Email me][email]
+## 📊 GitHub Analytics
 
-[email]: mailto:harshavardhansai.mutyala@gmail.com
-[formscore]: https://github.com/Harsha1362?tab=repositories&q=FormScore
-[github]: https://github.com/Harsha1362
-[linkedin]: https://www.linkedin.com/in/mutyala-harshavardhan-sai
-[weather]: https://github.com/Harsha1362?tab=repositories&q=Open-Meteo
-[xray]: https://github.com/Harsha1362?tab=repositories&q=COVID-19
+These live cards summarize GitHub-visible public repository and contribution
+activity. Language usage reflects repository code and is not a measure of
+proficiency.
+
+### Contribution Activity and Streak
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha1362&amp;theme=tokyo-night&amp;hide_border=true" alt="Graph of Harshavardhan's recent public GitHub contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's current and longest public GitHub contribution streaks" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **harshavardhansai.mutyala@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/mutyala-harshavardhan-sai**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
