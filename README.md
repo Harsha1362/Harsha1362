@@ -96,6 +96,7 @@ These live cards summarize GitHub-visible public repository and contribution
 activity. Language usage reflects repository code and is not a measure of
 proficiency.
 
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha1362&amp;theme=tokyonight"
     alt="Harshavardhan's GitHub contribution activity summary"
@@ -105,7 +106,7 @@ proficiency.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Harsha1362&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true"
     alt="Harshavardhan's GitHub contribution streaks"
   />
 </p>
