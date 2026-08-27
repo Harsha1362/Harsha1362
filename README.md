@@ -75,21 +75,6 @@ or connect with me on
 **Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
 
 
-### 🌦️ Open-Meteo weather ETL pipeline
-
-**Problem:** Turn API weather data into queryable, incrementally updated records
-and a simple visual experience.
-
-**Outcome:** Built an API-to-PostgreSQL ETL workflow with incremental loading,
-then containerized a Streamlit dashboard for exploring the resulting data.
-
-**Technologies:** Python, Open-Meteo API, PostgreSQL, Docker, Streamlit.
-
-**Repository:** [Search my repositories for the Open-Meteo pipeline][weather] ·
-
-
-
-
 ## 📊 GitHub Analytics
 
 These live cards summarize GitHub-visible public repository and contribution
