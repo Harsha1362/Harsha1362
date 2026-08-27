@@ -72,8 +72,6 @@ work aligns with your team, please [email me](mailto:harshavardhansai.mutyala@gm
 or connect with me on
 [LinkedIn](https://www.linkedin.com/in/mutyala-harshavardhan-sai).
 
-**Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
-
 
 ## 📊 GitHub Analytics
 
