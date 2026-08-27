@@ -105,8 +105,8 @@ proficiency.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Harshavardhan's current and longest public GitHub contribution streaks"
+    src="https://streak-stats.demolab.com?user=Harsha1362&theme=tokyonight&hide_border=true"
+    alt="Harshavardhan's GitHub contribution streaks"
   />
 </p>
 
