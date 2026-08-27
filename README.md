@@ -41,7 +41,7 @@ explains its scoring.
 - **Technologies:** Python, OpenCV, MediaPipe BlazePose, BiLSTM, SHAP,
   Streamlit, Docker.
 - **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=FormScore)
-  · Demo URL not provided.
+
 
 ### COVID-19 Chest X-ray Classifier
 
@@ -52,7 +52,7 @@ evaluating deep-learning models on chest X-rays.
   training and evaluation pipelines.
 - **Technologies:** Python, TensorFlow, Keras, computer vision.
 - **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=COVID-19)
-  · Demo URL not provided.
+  
 
 ### Open-Meteo Weather ETL Pipeline
 
@@ -63,7 +63,7 @@ dashboarding.
   and exposed the results through an interactive dashboard.
 - **Technologies:** Python, Open-Meteo API, PostgreSQL, Streamlit, Docker.
 - **Links:** [Repository listing](https://github.com/Harsha1362?tab=repositories&q=Open-Meteo)
-  · Demo URL not provided.
+
 
 ## Let's connect
 
@@ -73,7 +73,7 @@ or connect with me on
 [LinkedIn](https://www.linkedin.com/in/mutyala-harshavardhan-sai).
 
 **Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
-**Live demo:** Not currently available.
+
 
 ### 🌦️ Open-Meteo weather ETL pipeline
 
@@ -86,7 +86,7 @@ then containerized a Streamlit dashboard for exploring the resulting data.
 **Technologies:** Python, Open-Meteo API, PostgreSQL, Docker, Streamlit.
 
 **Repository:** [Search my repositories for the Open-Meteo pipeline][weather] ·
-**Live demo:** Not currently available.
+
 
 
 
