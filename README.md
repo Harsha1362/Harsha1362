@@ -72,24 +72,21 @@ work aligns with your team, please [email me](mailto:harshavardhansai.mutyala@gm
 or connect with me on
 [LinkedIn](https://www.linkedin.com/in/mutyala-harshavardhan-sai).
 
-### ☁️ Cloud & Data Engineering
+**Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
+**Live demo:** Not currently available.
 
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark)
+### 🌦️ Open-Meteo weather ETL pipeline
 
----
+**Problem:** Turn API weather data into queryable, incrementally updated records
+and a simple visual experience.
 
-### 📈 Visualization
+**Outcome:** Built an API-to-PostgreSQL ETL workflow with incremental loading,
+then containerized a Streamlit dashboard for exploring the resulting data.
 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+**Technologies:** Python, Open-Meteo API, PostgreSQL, Docker, Streamlit.
 
----
+**Repository:** [Search my repositories for the Open-Meteo pipeline][weather] ·
+**Live demo:** Not currently available.
 
 
 
