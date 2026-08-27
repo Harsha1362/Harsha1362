@@ -1,114 +1,96 @@
-<h1 align="center">Hi 👋, I'm Harshavardhan Sai Mutyala</h1>
-<h3 align="center">Master's in Data Science Graduate | Data Analytics • Machine Learning • Data Engineering • Generative AI</h3>
+# Hi 👋, I'm Harshavardhan Sai Mutyala
 
----
+Master's in Data Science graduate focused on data analytics, machine learning,
+data engineering, and generative AI.
 
-## 👨‍💻 About Me
+[Featured projects](#featured-projects) · [GitHub][github] ·
+[LinkedIn][linkedin] · [Email][email]
 
-🎓 Master's in Data Science graduate from the **University of Maryland, College Park**
+## About me
 
-💡 Passionate about solving real-world problems using **Data Analytics, Machine Learning, Data Engineering, and Generative AI**
+I enjoy turning real-world questions into data products: analytical workflows,
+machine-learning models, API-backed pipelines, and approachable applications.
+I earned my master's degree at the University of Maryland, College Park, and I
+am continuing to learn Google Cloud Platform, retrieval-augmented generation,
+AI agent development, and MLOps.
 
-🔭 Building projects involving **Machine Learning, ETL Pipelines, Computer Vision, APIs, and Data Engineering**
+I am seeking entry-level opportunities in data analytics, data science, data
+engineering, machine learning, and generative AI engineering.
 
-🌱 Currently learning **Google Cloud Platform, RAG Systems, AI Agent Development, and MLOps**
+## Technical toolkit
 
-💬 Ask me about **Python, SQL, Machine Learning, Data Engineering, Computer Vision, PostgreSQL, Docker, and Streamlit**
+| Capability | Tools |
+| --- | --- |
+| Programming and querying | Python, SQL, R, C++, C |
+| Analysis and ML | pandas, NumPy, scikit-learn, PyTorch, TensorFlow |
+| Computer vision | OpenCV, MediaPipe |
+| Databases | PostgreSQL, MongoDB, MySQL |
+| Data engineering | Apache Airflow, PySpark, Docker |
+| Cloud | Google Cloud, AWS |
+| Applications and visualization | Streamlit, Tableau |
+| Development workflow | Git, GitHub |
 
-🚀 Seeking entry-level opportunities as a:
-- Data Analyst
-- Data Scientist
-- Data Engineer
-- Machine Learning Engineer
-- Generative AI Engineer
+## Featured projects
 
----
+Exact repository URLs are awaiting owner confirmation. The repository links
+below are intentionally scoped searches of my GitHub profile so each project
+remains discoverable without guessing a destination.
 
-## 🛠️ Tech Stack
+### 🏋️ FormScore — AI exercise form coach
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c)
+**Problem:** Make exercise-form feedback easier to understand from video-based
+movement data.
 
----
+**Outcome:** Built an end-to-end computer-vision workflow for pose-based form
+evaluation, added SHAP explanations, and packaged the interface with Streamlit
+and Docker. The earlier performance claim is omitted until its evaluation data
+and reproduction steps can be linked.
 
-### 📊 Data Science & Machine Learning
+**Technologies:** Python, OpenCV, MediaPipe BlazePose, BiLSTM, SHAP, Streamlit,
+Docker.
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+**Repository:** [Search my repositories for FormScore][formscore] ·
+**Live demo:** Not currently available.
 
----
+### 🩺 COVID-19 chest X-ray classifier
 
-### 🗄️ Databases
+**Problem:** Explore image-classification workflows for distinguishing classes
+in chest X-ray data.
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+**Outcome:** Developed TensorFlow/Keras training and evaluation pipelines. The
+earlier accuracy and ROC-AUC claims are omitted until the dataset split,
+evaluation output, and reproduction instructions can be linked. This is a
+portfolio project, not a clinical diagnostic tool.
 
----
+**Technologies:** Python, TensorFlow, Keras.
 
-### ☁️ Cloud & Data Engineering
+**Repository:** [Search my repositories for the chest X-ray classifier][xray] ·
+**Live demo:** Not currently available.
 
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark)
+### 🌦️ Open-Meteo weather ETL pipeline
 
----
+**Problem:** Turn API weather data into queryable, incrementally updated records
+and a simple visual experience.
 
-### 📈 Visualization
+**Outcome:** Built an API-to-PostgreSQL ETL workflow with incremental loading,
+then containerized a Streamlit dashboard for exploring the resulting data.
 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+**Technologies:** Python, Open-Meteo API, PostgreSQL, Docker, Streamlit.
 
----
+**Repository:** [Search my repositories for the Open-Meteo pipeline][weather] ·
+**Live demo:** Not currently available.
 
-## 🚀 Featured Projects
+## Let's connect
 
-### 🏋️ FormScore – AI Exercise Form Coach
-- Built an end-to-end Computer Vision application using OpenCV, MediaPipe BlazePose, and BiLSTM.
-- Achieved **R² = 0.9773** for exercise form evaluation.
-- Integrated SHAP explainability and deployed with Streamlit & Docker.
+I am available for entry-level data and AI roles and would be glad to discuss
+these projects, their implementation details, or opportunities to contribute.
 
----
+[Explore my GitHub][github] · [Connect on LinkedIn][linkedin] ·
+[Email me][email]
 
-### 🩺 COVID-19 Chest X-ray Classifier
-- Developed TensorFlow/Keras models for medical image classification.
-- Achieved **98.35% accuracy** and **0.996 ROC-AUC**.
-- Built reproducible training and evaluation pipelines.
-
----
-
-### 🌦️ Open-Meteo Weather ETL Pipeline
-- Built an API-to-PostgreSQL ETL pipeline using Python.
-- Implemented incremental loading and dashboard visualization.
-- Containerized using Docker and Streamlit.
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Harsha1362&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: **harshavardhansai.mutyala@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/mutyala-harshavardhan-sai**
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+[email]: mailto:harshavardhansai.mutyala@gmail.com
+[formscore]: https://github.com/Harsha1362?tab=repositories&q=FormScore
+[github]: https://github.com/Harsha1362
+[linkedin]: https://www.linkedin.com/in/mutyala-harshavardhan-sai
+[weather]: https://github.com/Harsha1362?tab=repositories&q=Open-Meteo
+[xray]: https://github.com/Harsha1362?tab=repositories&q=COVID-19
