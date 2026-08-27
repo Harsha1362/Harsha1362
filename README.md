@@ -96,14 +96,18 @@ These live cards summarize GitHub-visible public repository and contribution
 activity. Language usage reflects repository code and is not a measure of
 proficiency.
 
-### Contribution Activity and Streak
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha1362&amp;theme=tokyo-night&amp;hide_border=true" alt="Graph of Harshavardhan's recent public GitHub contribution activity" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha1362&amp;theme=tokyonight"
+    alt="Harshavardhan's GitHub contribution activity summary"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true" alt="Harshavardhan's current and longest public GitHub contribution streaks" />
+  <img
+    src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Harshavardhan's current and longest public GitHub contribution streaks"
+  />
 </p>
 
 ---
