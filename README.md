@@ -89,7 +89,7 @@ proficiency.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=Harsha1362&amp;theme=tokyonight&amp;hide_border=true&amp;v=20260828-2"
     alt="Harshavardhan's GitHub contribution streaks"
   />
 </p>
